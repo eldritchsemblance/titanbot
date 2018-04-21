@@ -1,0 +1,24 @@
+{
+  "name": "titanbot",
+  "version": "1.0.0",
+  "description": "Eclipse Phase System Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldritchsemblance/titanbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "rpg"
+  ],
+  "author": "Eldritch Semblance",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/eldritchsemblance/titanbot/issues"
+  },
+  "homepage": "https://github.com/eldritchsemblance/titanbot#readme"
+}
