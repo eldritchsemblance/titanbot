@@ -23,6 +23,7 @@
   "homepage": "https://github.com/eldritchsemblance/titanbot#readme",
   "dependencies": {
     "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
     "mersenne-twister": "^1.1.0",
     "winston": "^2.4.2"
   }
