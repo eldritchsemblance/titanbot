@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/eldritchsemblance/titanbot.git"
   },
+  "engines": {
+    "node": "9.10.x"
+  },
   "keywords": [
     "discord",
     "bot",
