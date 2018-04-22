@@ -4,7 +4,8 @@
   "description": "Eclipse Phase System Bot for Discord",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
     "discord.js": "^11.3.2",
     "dotenv": "^5.0.1",
     "mersenne-twister": "^1.1.0",
+    "moment": "^2.22.1",
     "winston": "^2.4.2"
   }
 }
